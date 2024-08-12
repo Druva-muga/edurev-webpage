@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Header from "./components/Header";
+import Header from "src/components/Header.js";
 import HeroSection from "./components/HeroSection";
 import Features from "./components/Features";
 import "./App.css";
