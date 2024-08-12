@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/edurev-webpage/static/css/main.8d546bc0.css",
+    "main.js": "/edurev-webpage/static/js/main.5fc59807.js",
+    "static/media/rocket.svg": "/edurev-webpage/static/media/rocket.af955ec2513e6173745377c8ac4a02d6.svg",
+    "static/media/calendar.svg": "/edurev-webpage/static/media/calendar.902d819313fd07ddc133154d999b294d.svg",
+    "index.html": "/edurev-webpage/index.html",
+    "static/media/hat.svg": "/edurev-webpage/static/media/hat.32e39014338e67ab9b34ce1da204756f.svg",
+    "main.8d546bc0.css.map": "/edurev-webpage/static/css/main.8d546bc0.css.map",
+    "main.5fc59807.js.map": "/edurev-webpage/static/js/main.5fc59807.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d546bc0.css",
+    "static/js/main.5fc59807.js"
+  ]
+}
