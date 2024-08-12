@@ -25,6 +25,7 @@
     height: Hug (50px)px;
     gap: 0px;
     opacity: 0px;
+    z-index: 1000;
 
   }
   
