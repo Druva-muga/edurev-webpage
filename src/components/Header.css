@@ -1,0 +1,57 @@
+.header{
+  position: sticky;
+  top:0;
+  left:0;
+  z-index: 999;
+  width: 100%;
+  padding:0px;
+  height: 6.82%;
+  gap: 0px;
+  border: 0px 0px 1px 0px;
+  opacity: 0px;
+  background: #FCFCFC;
+  border-bottom: 1px solid #00000066;
+}
+
+.Navbar {
+    margin-left:14%;
+    margin-top:9px;
+    margin-bottom:9px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #FCFCFC;
+    width:100%;
+    width: 81.3%;
+    height: Hug (50px)px;
+    gap: 0px;
+    opacity: 0px;
+
+  }
+  
+  .logo {
+    display: flex;
+    align-items:center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #000;
+  }
+  
+  .buttons button {
+    margin-left: 10px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .login {
+    background-color:black;
+    color: #f0f0f0;
+  }
+  
+  .join-now {
+    background-color: #ffffff;
+    color: #000;
+    border: 2px solid black;
+  }
+  
